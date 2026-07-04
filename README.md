@@ -2,10 +2,8 @@
 
 ---
 
-## 🇸🇦 1. دليل الأداة (باللغة العربية)
+🇸🇦 1. دليل الأداة (باللغة العربية)ما هي هذه الأداة؟NexusScan-OSINT هي أداة برمجية متطورة وفائقة السرعة مخصصة لعمليات الاستطلاع واختبار الاختراق وفحص أمن الشبكات. تم تصميم وتطوير وبرمجة هذه النسخة بالكامل بواسطة المطور والمبرمج الخاص الحصري للمشروع SSkullls،
 
-### ما هي هذه الأداة؟
-**NexusScan-OSINT** هي أداة برمجية متطورة وفائقة السرعة مخصصة لعمليات الاستطلاع واختبار الاختراق وفحص أمن الشبكات. تم تصميم وهندسة هذه النسخة البرمجية بواسطة المبرمج والمطور الرئيسي **SSkullls**
 ### الميزات التقنية:
 * **تعدد المسارات (Multi-Threading):** فحص متزامن فائق السرعة يوفر الوقت أثناء فحص الأهداف الضخمة.
 * **البحث عن النطاقات الفرعية (Subdomains):** كشف البنية التحتية والمواقع المخفية التابعة للهدف.
@@ -28,7 +26,7 @@
 ## 🇺🇸 2. Tool Overview & Guide (English)
 
 ### What is this tool?
-**NexusScan-OSINT** is a high-performance network reconnaissance and cyber intelligence framework. This specific version was engineered and programmed by the core developer **SSkullls** as a special **CD-ROM Edition**, optimized to be burned and executed directly from physical media discs in air-gapped or secure testing environments.
+**NexusScan-OSINT** is a high-performance network reconnaissance and cyber intelligence framework. This specific version was engineered and programmed by the core developer **SSkullls** 
 
 ### Core Features:
 * **High-Speed Multi-Threading:** Speeds up concurrent port discovery and subdomain mapping workflows.
@@ -52,7 +50,7 @@
 ## 🇪🇸 3. Guía de la Herramienta (Español)
 
 ### ¿Qué es esta herramienta?
-**NexusScan-OSINT** es un marco avanzado de ciberseguridad y descubrimiento de activos. Programado y diseñado por el desarrollador principal **SSkullls**, esta versión especial **CD-ROM Edition** está optimizada para ser grabada en discos físicos y ejecutada directamente en entornos seguros o laboratorios de penetración de redes.
+**NexusScan-OSINT** es un marco avanzado de ciberseguridad y descubrimiento de activos. Programado y diseñado por el desarrollador principal **SSkullls**,
 
 ### Características Principales:
 * **Subprocesamiento Múltiple (Multi-threading):** Escaneo simultáneo y masivo de alta velocidad.
